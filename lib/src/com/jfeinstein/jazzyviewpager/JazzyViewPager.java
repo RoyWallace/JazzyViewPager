@@ -19,6 +19,11 @@ import android.view.View;
 
 import com.nineoldandroids.view.ViewHelper;
 
+/**
+ * fix by winter
+ * @author Winter
+ *
+ */
 public class JazzyViewPager extends ViewPager {
 
 	public static final String TAG = "JazzyViewPager";
